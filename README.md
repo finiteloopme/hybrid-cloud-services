@@ -8,6 +8,14 @@ For the purpose of this blog, _Hybrid Cloud_ means an infrastructure platform th
 3. **Private cloud infrastructure**: enterprise (or individual) owned and managed software defined infrastructure
 4. **Public cloud infrastructure**: software defined infrastructure leased from a service provider
 
+# Use case
+![Student acquisition process](https://raw.githubusercontent.com/finiteloopme/hybrid-cloud-services/master/student-acquisition-process.png)
+
+## Overview
+The use-case we will use for the purpose of this discussion is a student acquisition process employed by universities.
+
+In this age of globalisation and digitization, student acquisition and retention is a big challenge faced by all the universities.
+
 # Further reading
 1. [Microservices](https://developerblog.redhat.com/tag/microservices/)
 2. [Wildfly Swarm](https://github.com/wildfly-swarm/wildfly-swarm)
