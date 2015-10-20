@@ -14,7 +14,14 @@ For the purpose of this blog, _Hybrid Cloud_ means an infrastructure platform th
 ## Overview
 The use-case we will use for the purpose of this discussion is a student acquisition process employed by universities.
 
-In this age of globalisation and digitization, student acquisition and retention is a big challenge faced by all the universities.
+Student acquisition and student retention is a big challenge faced by all the universities.
+
+## Demo student
+- The domain name on OpenShift must be**unidomain**
+- The EAP application name must be **twitter**
+- [Register search criteria for Twitter](http://twitter-unidomain.rhcloud.com/register-data-feed)
+- [Dashboard to investigate cache](http://twitter-unidomain.rhcloud.com/dashboard-data-stream)
+- [Twitter integration source code](https://github.com/finiteloopme/data-stream-demo)
 
 # Further reading
 1. [Microservices](https://developerblog.redhat.com/tag/microservices/)
